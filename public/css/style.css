@@ -274,14 +274,14 @@ code {
 .logo {
   display: block;
   padding: 10px 0;
-  width: 165px;
+  width: 250px;
   height: 60px;
   background-image: url("images/logo-header.png");
   background-position: 0px 10px;
   background-repeat: no-repeat;
-  -webkit-background-size: 165px 60px;
-  -moz-background-size: 165px 60px;
-  background-size: 165px 60px;
+  -webkit-background-size: 250px 60px;
+  -moz-background-size: 250px 60px;
+  background-size: 250px 60px;
 }
 .main-body {
   margin-top: -60px;
